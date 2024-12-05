@@ -1,8 +1,8 @@
 # DFIR Madness: The Case of the Stolen Szechuan Sauce
 
-Welcome to my repository for "The Case of the Stolen Szechuan Sauce", a fictional digital forensics and incident response (DFIR) scenario designed to simulate a real-world cyber breach investigation. This project showcases my skills in DFIR methodologies, memory and disk forensics, malware analysis, and network investigation.
-About the Case
-BR
+Welcome to my repository for "The Case of the Stolen Szechuan Sauce", a fictional digital forensics and incident response (DFIR) scenario designed to simulate a real-world cyber breach investigation. This project showcases my skills in DFIR methodologies, memory and disk forensics, malware analysis, and network investigation. <br>
+About the Case :
+<BR>
 This engaging scenario revolves around the theft of a secret Szechuan sauce recipe leaked on the dark web. My goal was to identify the attack's entry point, analyze malware, map adversary infrastructure, and uncover the full extent of the breach.
 
 ### Key Questions Investigated:
